@@ -6,6 +6,9 @@ Welcome to my GitHub repository, where I unleash my creativity and share my jour
 
 ## Expertise and Proficient in:
 [![My Skills](https://skillicons.dev/icons?i=java,r,html,php,xd,vscode&perline=3)](https://skillicons.dev)
+
+## GitHub Stats
+![Mj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
 <!--
 **mjmmorales/mjmmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
