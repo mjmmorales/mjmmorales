@@ -4,6 +4,7 @@ Hey there! I'm Mj, a passionate beginner programmer with a love for UI/UX design
 Welcome to my GitHub repository, where I unleash my creativity and share my journey in the world of technology.
 
 
+## Expertise and Proficient in:
 [![My Skills](https://skillicons.dev/icons?i=java,r,html,php,xd,vscode&perline=3)](https://skillicons.dev)
 <!--
 **mjmmorales/mjmmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
