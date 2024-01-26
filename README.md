@@ -9,6 +9,8 @@ Welcome to my GitHub repository, where I unleash my creativity and share my jour
 
 ## GitHub Stats
 ![Mj's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mjmmorales&layout=compact&theme=radical)
+
+![Mj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjmmorales&show_icons=true&hide_title=true&count_private=true&theme=radical)
 <!--
 **mjmmorales/mjmmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
