@@ -5,7 +5,7 @@ Welcome to my GitHub repository, where I unleash my creativity and share my jour
 
 
 ## Expertise and Proficient in:
-[![My Skills](https://skillicons.dev/icons?i=java,r,html,php,xd,vscode,svg&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,r,html,php,xd,vscode&perline=3)](https://skillicons.dev)
 
 ## GitHub Stats
 ![Mj's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mjmmorales&layout=compact&theme=radical)
